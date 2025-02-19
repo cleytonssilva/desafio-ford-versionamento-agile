@@ -26,5 +26,13 @@ Foi utilizado o GitHub como ferramenta na gestão ágil na atividade proposta, f
   <li>O que não funcionou</li>
   <p>Erros de configuração ao github, ausência do commit e merge em cada branch foram devidamente corrigidas e sanadas.</p>
   <li>Sugestões de melhorias:</li>
-  <p>Visando uma melhor experiência do usuário se faz necessário que a tela inicial possa ter uma marca da empresa e um título com fontes maiores, também importante a implementação de abas de navegação "navbar" , informando sobre os respectivos veículos e suas configurações</p>
+  <p>Visando uma melhor experiência do usuário se faz necessário:</p>
+  
+  1. que a tela inicial possa ter uma marca da empresa e um título com fontes mais adequadas;
+  
+  2. a implementação de abas de navegação "navbar" , informando sobre os respectivos veículos e suas configurações
+  
+  3. o arquivo index.html seja alterado para veiculo.html, pois senão dará erro ao buscar a página, já que se encontra em contatos
+  
+  4. o arquivo contato.html seja alterado para index.html
 </ul>
