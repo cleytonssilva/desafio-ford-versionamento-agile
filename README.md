@@ -35,4 +35,6 @@ Foi utilizado o GitHub como ferramenta na gestão ágil na atividade proposta, f
   3. o arquivo index.html seja alterado para veiculo.html, pois senão dará erro ao buscar a página, já que se encontra em contatos
   
   4. o arquivo contato.html seja alterado para index.html
+
+  5. alterar a tag title "Git" no arquivo index.html, pois está fora de contexto
 </ul>
