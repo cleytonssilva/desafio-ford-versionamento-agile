@@ -22,17 +22,17 @@ Histórias do usuário ID:
 Histórias do usuário ID:
 <ol>
   <li>Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes dos veículos na cor azul para me proporcionar uma melhor experiência de usuário.</li>
-  <li></li>
+  <!-- <li></li> -->
   <li>Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links para as outras páginas sejam mais detalhadas para facilitar o meu entendimento e a minha navegação no portal. </li>
-  <li></li>
+  <!-- <li></li> -->
 </ol>
 </p>
 <h2>Relatório Final</h2>
 <ul>
   <li>O que funcionou?</li>
-  <p>...</p>
+  <p>Buscando otimizar o tempo de desenvolvimento para implementação do Product Backlog, foi baixado o Git Bash para a máquina e feita as devidas configurações iniciais. Foi criado o README com as informações principais d a atividade, juntamente como o Sprint Backlog e o Sprint Retrospective. Diante do proposto pelo PO(Product Owner) foram implementadas com sucesso as branchs contato e index, juntamente com suas alterações em cada branch e realizado o merge e commit para o repositório remoto.Todas as implementações foram realizadas com sucesso. </p>
   <li>O que não funcionou</li>
-  <p>...</p>
+  <p>Erros de configuração ao github, ausência do commit e merge em cada branch foram devidamente corrigidas e sanadas.</p>
   <li>Sugestões de melhorias:</li>
-  <p>...</p>
+  <p>Visando uma melhor experiência do usuário se faz necessário que a tela inicial possa ter uma marca da empresa e um título com fontes maiores, também importante a implementação de abas de navegação "navbar" , informando sobre os respectivos veículos e suas configurações</p>
 </ul>
